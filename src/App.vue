@@ -2,6 +2,7 @@
 import HelloWorld from './components/HelloWorld.vue'
 </script>
 
+<!--
 <template>
   <div>
     <a href="https://vite.dev" target="_blank">
@@ -12,6 +13,13 @@ import HelloWorld from './components/HelloWorld.vue'
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
+</template>
+-->
+
+<template>
+  <div class="text-center mt-10">
+    <h1 class="text-4xl font-bold text-blue-500">¡Tailwind está funcionando!</h1>
+  </div>
 </template>
 
 <style scoped>
